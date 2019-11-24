@@ -1,0 +1,25 @@
+.red-square {
+    margin: 15px;
+    height: 50px;
+    width: 50px;
+    background-color: red;
+
+}
+
+.green-circle {
+    margin: 15px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: green;
+}
+
+.red-triangle {
+    margin: 15px;
+    width: 0;
+	height: 0;
+	border-left: 25px solid transparent;
+    border-right: 25px solid transparent;
+    border-bottom: 50px solid red;
+}
+
